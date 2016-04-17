@@ -1,0 +1,31 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Scattering by a single point}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Scattering by $N$ arbitrary points}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Rayleigh-Bloch modes along an infinite line array of equally spaced points}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Whispering Bloch modes on a ring of mass-loaded points}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Presentation of the problem}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}An algorithm for complex root finding}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{The winding number as an indicator of the presence of poles}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Moments of the winding number}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{A variation}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{An example when $w=-2$}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Application the the analysis of the whispering Bloch modes}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Quality factor}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Influence of $N$}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Influence of $\mathaccentV {tilde}07E\mu $}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Dispersion plots}{16}

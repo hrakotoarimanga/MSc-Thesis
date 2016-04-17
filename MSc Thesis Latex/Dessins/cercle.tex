@@ -1,0 +1,55 @@
+\documentclass[11pt,fleqn]{standalone}
+%\usepackage{tikz}
+%\usepackage{commath}
+%\usetikzlibrary{decorations.markings}
+%\usetikzlibrary{shapes.arrows}
+%
+%\begin{document}
+%
+%\begin{tikzpicture}
+%	
+%	\draw[
+%	fill = white,
+%	thick,
+%	decoration = {markings, mark=at position 0.625 with {\arrow{>}}},
+%	postaction = {decorate}
+%	] (0,0) circle (4);
+%	
+%	\draw[
+%	fill = gray,
+%	thick,
+%	decoration = {markings, mark=at position 0.625 with {\arrow{<}}},
+%	postaction = {decorate}
+%	] 
+%	(0,0) circle (1);
+%	
+%	\draw[fill] (2,-2) circle [radius=0.025];
+%	
+%	\draw [thick,->] (2.5,-2) arc [radius=0.5, start angle=0, end angle= 140];
+%	
+%	\node [left] at (-1,0) {$\mathcal{C}_0$};
+%	\node [right] at (-4,0) {$\mathcal{C}_1$};
+%	\node [above] at (0,1) {$\abs{\zeta} = q$};
+%	\node [below] at (0,4) {$\abs{\zeta} = 1$};
+%	\node at (2,2) {$\mathcal{D}_\zeta$};
+%	\node [below] at (2,-2) {$\alpha$};
+%	\node [right] at (2.5,-1.5) {$\Gamma$};
+%	
+%	
+%\end{tikzpicture}
+
+\usepackage{tikz,calc}
+
+\begin{document}
+\begin{tikzpicture}
+\foreach \a in {1,2,...,20}{
+\draw (\a*360/20: 4cm) [fill=gray] circle [radius=0.1];
+}
+
+\draw  (0,0)--(3.7,1.236) ;
+\node [below] at (2,0) {$a$};
+\draw [<->](0,0)--(3.9,0) ;
+
+
+\end{tikzpicture}
+\end{document}

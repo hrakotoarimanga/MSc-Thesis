@@ -1,0 +1,113 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{ynt}{ynt}
+    \entry{delves1967numerical}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1beef5b00429f55eac0a183a9b859173}{Delves}{D\bibinitperiod}{LM}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=af2ddb345e0ea374cdf1a6d338117dd8}{Lyness}{L\bibinitperiod}{JN}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{c84174d3aee76f0accec5a79476de3b7}
+      \strng{fullhash}{c84174d3aee76f0accec5a79476de3b7}
+      \field{labelalpha}{DL67}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics of computation}
+      \field{number}{100}
+      \field{title}{A numerical method for locating the zeros of an analytic function}
+      \field{volume}{21}
+      \field{year}{1967}
+      \field{pages}{543\bibrangedash 560}
+      \range{pages}{18}
+    \endentry
+    \entry{brazier1991}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e94a0d284275bf944da958bbbe124f9e}{Brazier-Smith}{B\bibinithyphendelim S\bibinitperiod}{PR}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=2a3a218a94e8296266ce5f5ef69c3b6d}{Scott}{S\bibinitperiod}{JFM}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{20d79a91fdf8f5a84a14fe860f8b83d2}
+      \strng{fullhash}{20d79a91fdf8f5a84a14fe860f8b83d2}
+      \field{labelalpha}{BS91}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sound and Vibration}
+      \field{number}{3}
+      \field{title}{On the determination of the roots of dispersion equations by use of winding number integrals}
+      \field{volume}{145}
+      \field{year}{1991}
+      \field{pages}{503\bibrangedash 510}
+      \range{pages}{8}
+    \endentry
+    \entry{evans2007penetration}{article}{}
+      \name{author}{2}{}{%
+        {{hash=773ba7426c8cd486d7f49f59bca3b8ea}{Evans}{E\bibinitperiod}{DV}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a5225045975e0fd62b42c72e4555a036}{Porter}{P\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7a51f285b1f065f952293f995a08fc00}
+      \strng{fullhash}{7a51f285b1f065f952293f995a08fc00}
+      \field{labelalpha}{EP07}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Engineering Mathematics}
+      \field{number}{1-4}
+      \field{title}{Penetration of flexural waves through a periodically constrained thin elastic plate in vacuo and floating on water}
+      \field{volume}{58}
+      \field{year}{2007}
+      \field{pages}{317\bibrangedash 337}
+      \range{pages}{21}
+    \endentry
+    \entry{hayek2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0c43bdffbb2e6a038c12696a4aa43563}{Hayek}{H\bibinitperiod}{Sabih\bibnamedelima I}{S\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{0c43bdffbb2e6a038c12696a4aa43563}
+      \strng{fullhash}{0c43bdffbb2e6a038c12696a4aa43563}
+      \field{labelalpha}{Hay10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Advanced mathematical methods in science and engineering}
+      \field{year}{2010}
+      \field{pages}{484\bibrangedash 485}
+      \range{pages}{2}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
